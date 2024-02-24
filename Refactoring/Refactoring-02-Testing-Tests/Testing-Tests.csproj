@@ -24,7 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Refactoring-02-Testing-Library\Refactoring-02-Testing-Library.csproj" />
+    <ProjectReference Include="..\Refactoring-02-Testing-Library\Testing-Library.csproj" />
   </ItemGroup>
 
 </Project>

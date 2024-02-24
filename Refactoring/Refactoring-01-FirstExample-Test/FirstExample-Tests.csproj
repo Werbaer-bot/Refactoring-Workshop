@@ -24,7 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Refactoring-01-FirstExample\Refactoring-01-FirstExample-Console.csproj" />
+    <ProjectReference Include="..\Refactoring-01-FirstExample\FirstExample-Console.csproj" />
   </ItemGroup>
 
 </Project>
